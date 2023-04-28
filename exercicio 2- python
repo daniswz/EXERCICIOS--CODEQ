@@ -1,0 +1,4 @@
+raio= float(input('insira um valor do raio'))
+pi= 3.14159
+area= pi * (raio**2)
+print(f'o resultando do {raio**2}*{pi} é igual a {area}').__format__
