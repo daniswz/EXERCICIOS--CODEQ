@@ -1,0 +1,4 @@
+Base= float(input('insira um numero'))
+altura= float(input('insira um numero'))
+arearetangulo = Base*altura
+retangulo= print(f' a area do retangulo é ({arearetangulo})')

@@ -1,0 +1,5 @@
+A= float(input('insira um numero'))
+B= float(input('insira um numero'))
+C= float(input('insira um numero'))
+Areatriangulo = (A*C)/2
+triangulo= print(f' a area do triangulo sera ({Areatriangulo}')

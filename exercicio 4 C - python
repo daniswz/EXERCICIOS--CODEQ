@@ -1,0 +1,5 @@
+A= float(input('insira um numero'))
+B= float(input('insira um numero'))
+C= float(input('insira um numero'))
+Areatrapezio= (A+B)*(C)/2
+Trapezio= print(f'a area do trapezio sera ({Areatrapezio})')

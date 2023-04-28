@@ -1,0 +1,3 @@
+R= float(input('insira um numero'))
+Areacirculo= (3.14*R**2)
+Circulo = print(f'a area do circulo sera ({Areacirculo}')
