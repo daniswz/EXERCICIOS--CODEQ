@@ -1,0 +1,6 @@
+n1 = int(input('insira o primeiro numero'))
+n2 = int(input('insira o segundo numero'))
+n3 = int(input('insira o terceiro numero'))
+n = int(input('insira a quantidade de n'))
+M = (n1 + n2 + n3)/n
+print(f'o  resultado de ({n1} + {n2} + {n3}) / {n} media sera {M}').__format__
